@@ -205,7 +205,10 @@
   }
   .subblock-3 {
     top: 75%;
-}
+  }
+  .zagolovok-14 {
+        font-size: 10px;
+  }
 }
 @media screen and (max-width: 414px) {
   .subblock-3 {
