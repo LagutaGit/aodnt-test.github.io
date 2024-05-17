@@ -199,7 +199,20 @@
 }
 
 @media screen and (max-width: 431px) {
-  .subblock-3 {
-    top: 82%;
+
+  .header-text {
+    font-size: 8px;
   }
+  .subblock-3 {
+    top: 75%;
+}
+}
+@media screen and (max-width: 414px) {
+  .subblock-3 {
+    top: 79%;
+  }
+  .header-text {
+    font-size: 12px;
+  }
+ 
 }
