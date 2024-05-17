@@ -1,0 +1,205 @@
+@media screen and (max-width: 1200px) {
+  .container {
+    width: auto;
+    padding: 0 24px;
+  }
+}
+
+@media screen and (max-width: 978px) {
+  .block-header-1-inner-4 {
+    display: none;
+  }
+  .block-header-1 li {
+    padding-right: 15px;
+  }
+  .news-container {
+    padding: 31px 15px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .zagolovok-36 {
+    font-size: 32px;
+  }
+  .subblock-1 {
+    padding: 25px 20px;
+  }
+  .cards-afisha {
+    padding-top: 25px;
+  }
+  .card-front {
+    max-width: 227px;
+  }
+
+  .card-front,
+  .card-back {
+    min-width: 227px;
+    height: 100%;
+  }
+  .date-sobytie {
+    padding: 7px 5px;
+  }
+  .naprl {
+    clip-path: polygon(calc(73% - 26px) 0%, 70% 9px, 70% 100%, 0 100%, 0 0);
+  }
+  .naprl-back {
+    font-size: 18px;
+  }
+  .titlesss {
+    padding: 24px 0 12px 24px;
+  }
+  .about-card {
+    padding: 24px 24px 12px 24px;
+  }
+  .card-afisha {
+    margin-top: 10px;
+  }
+  .news-container {
+    padding: 20px 10px;
+  }
+  .zagolovok-21 {
+    font-size: 19px;
+  }
+  .none {
+    display: block;
+  }
+}
+
+@media screen and (max-width: 770px) {
+  .slider-2 img {
+    width: 99%;
+  }
+  .none {
+    display: none;
+  }
+  .main-block {
+    display: block;
+  }
+  .subblock-1 {
+    text-align: center;
+  }
+  .block-podrobno {
+    justify-content: center;
+  }
+  .subblock-3 {
+    position: absolute;
+    top: 49%;
+    left: 0%;
+  }
+  .logo {
+    margin: 0 auto;
+  }
+  .partner {
+    max-width: 160px;
+  }
+  .none2 {
+    display: block;
+  }
+  .block-header-1 li:first-child {
+    padding-right: 20px;
+  }
+  .header-text {
+    font-size: 12px;
+  }
+  .search {
+    padding: 22px;
+    clip-path: polygon(0% 0%, 100% 0%, 100% 40px, 48px 100%, 0 100%);
+    margin-left: 15px;
+  }
+}
+
+@media screen and (max-width: 619px) {
+  .date {
+    padding: 14px 20px 2px 14px;
+  }
+  .block-inner-sub {
+    padding: 16px 16px 0 0;
+  }
+  .subblock-3 {
+    top: 77%;
+  }
+  .zagolovok-36 {
+    font-size: 24px;
+  }
+  .pb-16px {
+    padding-bottom: 5px;
+  }
+  .block-podrobno {
+    padding: 5px 0;
+  }
+  .slogan {
+    background: #f84435;
+    padding: 14px 13px;
+  }
+
+  .container {
+    width: auto;
+    padding: 0 5px;
+  }
+  .header-bottom {
+    padding-top: 5px;
+  }
+  .pb-33px {
+    padding-bottom: 5px;
+  }
+  .block-header-1 li:first-child {
+    padding-right: 40px;
+  }
+  .swiper {
+    width: 100%;
+    /*   height: 100%; */
+    max-height: 477px;
+  }
+  .subblock-2 img {
+    max-width: 100%;
+    clip-path: polygon(50px 0%, 100% 0, 100% 100%, 0 100%, 0 50px);
+  }
+  .subblock-2 {
+    transform: translateX(70px);
+  }
+  .ul-cards {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  .pl-186 {
+    padding-left: 0px;
+  }
+  .title-afisha {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .block-number {
+    display: none;
+  }
+  .block-afisha {
+    padding: 30px 0;
+  }
+  .block-news-all {
+    padding-top: 30px;
+  }
+
+  .zagolovok-21 {
+    font-size: 10px;
+  }
+  .zagolovok-14 {
+    font-size: 12px;
+  }
+  .block-footer-about {
+    padding: 18px 0;
+    display: block;
+    text-align: center;
+  }
+  .search-container {
+    position: absolute;
+    /* display: flex; */
+    top: 60px;
+  }
+}
+
+@media screen and (max-width: 431px) {
+  .subblock-3 {
+    top: 82%;
+  }
+}
