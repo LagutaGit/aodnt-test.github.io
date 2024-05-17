@@ -79,7 +79,11 @@ li {
 }
 
 
-
+.block-see-all a {
+    color: black;
+    text-decoration: underline;
+    text-decoration-color: #f84435;
+}
 
 
 .block-header-1 {
