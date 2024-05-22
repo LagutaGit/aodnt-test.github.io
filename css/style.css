@@ -644,14 +644,21 @@ body {
 /* новости */
 
 .news-container {
-  padding: 31px 24px;
+  padding: 8px 8px;
   background: #fff;
   color: #000;
   clip-path: polygon(26px 0%, 100% 0, 100% 100%, 0 100%, 0 9px);
 }
 
-.news-container:hover{
-  border: 1px solid #f84435;
+.all-news-one {
+  padding: 10px;
+  background: #fff;
+  clip-path: polygon(20px 0%, 100% 0, 100% 100%, 0 100%, 0 6px);
+}
+
+.news-container:hover {
+  background: #f84435;
+
   transition: 0.3s ease;
 }
 
